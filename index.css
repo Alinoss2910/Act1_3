@@ -22,9 +22,9 @@ body {
 }
 .columna1, .columna2, .columna3{
     background-color: #eee;
-    width: 32%;
+    width: 282px;
     float: left;
-    margin: 0.5%;
+    margin: 2px;
     text-align: center;
 
 }
